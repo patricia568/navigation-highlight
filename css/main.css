@@ -78,7 +78,7 @@ footer {
 
 img {
   width: 100%;
-  display: inline-block;
+  display: block;
 }
 
 .blueberry-image, .grapes-image, .red-currants-image {
