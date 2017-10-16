@@ -90,6 +90,7 @@ p {
   font-size: 1.125rem;
   margin: .3em;
   color: #2f2d13;
+  padding-top: .75em;
 }
 
 .current {
