@@ -78,7 +78,7 @@ img {
   width: 100%
 }
 
-.blueberry-image {
+.blueberry-image, .grapes-image, .red-currants-image {
   margin: .3em;
 }
 
