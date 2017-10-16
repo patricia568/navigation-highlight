@@ -5,3 +5,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+h1, h2 {
+  font-family: 'Sigmar One', cursive;
+}
