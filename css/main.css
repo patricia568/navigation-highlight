@@ -24,6 +24,12 @@ a {
   background-color: #b2a212;
 }
 
+li {
+  display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
+}
+
 h2 {
   font-family: 'Sigmar One';
 }
