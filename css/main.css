@@ -105,3 +105,8 @@ p {
 .blueberries-header {
   margin-top: .9em;
 }
+
+.blueberries-paragraph {
+  margin-top: 0;
+  margin-bottom: .2em;
+}
