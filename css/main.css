@@ -19,6 +19,7 @@ header {
   background-color: #ffe500;
   padding-bottom: 1px;
   margin: 0px;
+  text-align: center;
 }
 
 a {
@@ -50,4 +51,9 @@ h2 {
   font-family: 'Sigmar One';
   font-size: 1.875rem;
   color: #b20953;
+}
+
+small {
+  text-align: center;
+  background-color: #ffe500;
 }
