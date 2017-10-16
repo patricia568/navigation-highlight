@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  margin: 0;
 }
 
 *, *::before, *::after {
@@ -12,12 +11,14 @@ h1 {
   font-family: 'Sigmar One';
   font-size: 3rem;
   color: #b20953;
-  margin: 0;
+  margin: 0px;
 }
 
 header {
   text-align: center;
   background-color: #ffe500;
+  padding-bottom: 1px;
+  margin: 0px;
 }
 
 a {
