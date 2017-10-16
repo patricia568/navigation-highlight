@@ -47,6 +47,12 @@ ul {
     list-style-type: none;
 }
 
+nav ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
 h2 {
   font-family: 'Sigmar One';
   font-size: 1.875rem;
