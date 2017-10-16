@@ -72,3 +72,7 @@ img {
 p {
   font-size: 1.125rem;
 }
+
+.current {
+  background-color: #cc1465;
+}
