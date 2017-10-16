@@ -33,6 +33,10 @@ a {
   text-align: center;
 }
 
+a:hover {
+  background-color: #cc1465;
+}
+
 li {
   display: inline-block;
   padding-top: 0;
