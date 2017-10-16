@@ -9,7 +9,7 @@ html {
 }
 
 h1 {
-  font-family: 'Sigmar One';
+  font-family: "Sigmar One";
   font-size: 3rem;
   color: #b20953;
   margin: 0px;
@@ -64,7 +64,7 @@ nav ul {
 }
 
 h2 {
-  font-family: 'Sigmar One';
+  font-family: "Sigmar One";
   font-size: 1.875rem;
   color: #b20953;
   margin: .3em;
