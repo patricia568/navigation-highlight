@@ -75,11 +75,13 @@ footer {
 }
 
 img {
-  width: 100%;
+  width: 100
+  margin: .3em;
 }
 
 p {
   font-size: 1.125rem;
+  margin: .3em;
 }
 
 .current {
