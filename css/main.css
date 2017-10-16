@@ -12,10 +12,10 @@ h1 {
   font-size: 3rem;
   color: #b20953;
   margin: 0px;
+  text-align: center;
 }
 
 header {
-  text-align: center;
   background-color: #ffe500;
   padding-bottom: 1px;
   margin: 0px;
@@ -30,10 +30,12 @@ a {
   padding: .2em .5em .3em;
   margin: .1em;
   border-radius: 4px;
+  text-align: center;
 }
 
 li {
   display: inline-block;
+    padding-top: 0;
 }
 
 ul {
