@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
+  margin: 0;
 }
 
 *, *::before, *::after {
@@ -25,6 +26,7 @@ a {
   background-color: #b2a212;
   text-decoration: none;
   padding: .75em;
+  margin: .3em;
 }
 
 li {
