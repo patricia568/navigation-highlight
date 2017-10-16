@@ -6,6 +6,12 @@ html {
   box-sizing: inherit;
 }
 
-h1, h2 {
+h1 {
+  font-family: 'Sigmar One';
+  font-size: 3rem;
+  text-align: center;
+}
+
+h2 {
   font-family: 'Sigmar One';
 }
