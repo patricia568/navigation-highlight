@@ -90,7 +90,6 @@ p {
   margin: .3em;
   color: #2f2d13;
   padding-top: .75em;
-  padding-bottom: .75em;
 }
 
 .current {
@@ -98,5 +97,5 @@ p {
 }
 
 .berries-header {
-  margin-top: .75em;
+  margin-top: .8em;
 }
