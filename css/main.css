@@ -17,6 +17,13 @@ header {
   background-color: #ffe500;
 }
 
+a {
+  font-family: Georgia;
+  font-size: 1.125rem;
+  color: #000;
+  background-color: #b2a212;
+}
+
 h2 {
   font-family: 'Sigmar One';
 }
