@@ -84,7 +84,7 @@ img {
 .blueberry-image, .grapes-image, .red-currants-image {
   margin-top: .5em;
   margin-left: .5em;
-  width: 97%;
+  width: 95%;
 }
 
 p {
@@ -108,6 +108,17 @@ p {
 }
 
 .blueberries-paragraph {
+  margin-top: 0;
+  margin-bottom: 1.1em;
+  line-height: 1.3;
+}
+
+.grapes-header {
+  margin-top: .9em;
+  margin-bottom: .9em;
+}
+
+.grapes-paragraph {
   margin-top: 0;
   margin-bottom: 1.1em;
   line-height: 1.3;
