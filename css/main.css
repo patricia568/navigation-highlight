@@ -1,6 +1,7 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
+  margin: 0;
 }
 
 *, *::before, *::after {
@@ -13,12 +14,13 @@ h1 {
   color: #b20953;
   margin: 0px;
   text-align: center;
+  padding-bottom: 1px;
 }
 
 header {
   background-color: #ffe500;
   padding-bottom: 1px;
-  margin: 0px;
+  margin: 0;
   text-align: center;
 }
 
@@ -29,7 +31,7 @@ a {
   background-color: #b2a212;
   text-decoration: none;
   padding: .2em .5em .3em;
-  margin: .1em;
+  margin: 0;
   border-radius: 4px;
   text-align: center;
 }
@@ -41,6 +43,7 @@ a:hover {
 li {
   display: inline-block;
   padding-top: 0;
+  margin-top: 0;
 }
 
 ul {
