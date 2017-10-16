@@ -22,12 +22,15 @@ a {
   font-size: 1.125rem;
   color: #000;
   background-color: #b2a212;
+  text-decoration: none;
 }
 
 li {
   display: inline-block;
-  list-style-type: none;
-  text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
 }
 
 h2 {
