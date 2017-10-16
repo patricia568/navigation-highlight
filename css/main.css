@@ -10,7 +10,7 @@ html {
 h1 {
   font-family: 'Sigmar One';
   font-size: 3rem;
-  color: #b20953;
+  color: #cc1465;
   margin: 0px;
   text-align: center;
 }
@@ -35,7 +35,7 @@ a {
 
 li {
   display: inline-block;
-    padding-top: 0;
+  padding-top: 0;
 }
 
 ul {
