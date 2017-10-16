@@ -78,6 +78,10 @@ img {
   width: 100%
 }
 
+.blueberry-image {
+  margin: .3em;
+}
+
 p {
   font-size: 1.125rem;
   margin: .3em;
